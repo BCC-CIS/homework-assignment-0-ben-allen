@@ -21,7 +21,7 @@ int main() {
 
     cout << "name: " << name << endl;
     cout << "preferred pronouns: " << pronouns << endl;
-    cout << "something about me: " << somethingSurprising << endl;
+    cout << "foo" << somethingSurprising << endl;
 
     return 0;
 }
